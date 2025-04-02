@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps Engineer Portfolio</title>
+    <link rel="stylesheet" href="ylldibraniweb.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Navigation Bar Styles */
+        :root {
+            --primary: #bb86fc;
+            --primary-dark: #3700b3;
+            --secondary: #03dac6;
+            --bg: #121212;
+            --surface: #1e1e1e;
+            --on-surface: #ffffff;
+            --on-bg: #e0e0e0;
+        }
+        
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: rgba(30, 30, 30, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3);
+            border-bottom: 1px solid #333;
+        }
+        
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        
+        .logo:hover {
+            text-shadow: 0 0 10px rgba(187, 134, 252, 0.5);
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+        
+        .nav-links li {
+            list-style: none;
+        }
+        
+        .nav-links a {
+            color: var(--on-bg);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            padding: 0.5rem 0;
+            position: relative;
+        }
+        
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background-color: var(--primary);
+            transition: width 0.3s ease;
+        }
+        
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+        
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+        
+        .nav-links a.active {
+            color: var(--primary);
+        }
+        
+        .nav-links a.active::after {
+            width: 100%;
+        }
+        
+        /* Mobile Menu Toggle */
+        .burger {
+            display: none;
+            cursor: pointer;
+            z-index: 1001;
+        }
+        
+        .burger div {
+            width: 25px;
+            height: 3px;
+            background-color: var(--on-bg);
+            margin: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        /* Mobile Menu */
+        @media (max-width: 768px) {
+            .nav-links {
+                position: fixed;
+                top: 0;
+                right: -100%;
+                width: 70%;
+                height: 100vh;
+                background-color: var(--surface);
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                transition: right 0.5s ease;
+                box-shadow: -5px 0 15px rgba(0, 0, 0, 0.3);
+                gap: 3rem;
+            }
+            
+            .nav-links.active {
+                right: 0;
+            }
+            
+            .burger {
+                display: block;
+            }
+            
+            .burger.active .line1 {
+                transform: translateY(8px) rotate(45deg);
+            }
+            
+            .burger.active .line2 {
+                opacity: 0;
+            }
+            
+            .burger.active .line3 {
+                transform: translateY(-8px) rotate(-45deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Modern Navigation Bar -->
+    <header>
+        <a href="#home" class="logo">DevOpsEngineer</a>
+        
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+        
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <!-- Rest of your existing content -->
+    <main>
+        <!-- Your existing sections here -->
+    </main>
+
+    <script>
+        // Mobile menu toggle
+        document.querySelector('.burger').addEventListener('click', function() {
+            this.classList.toggle('active');
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+
+        // Close mobile menu when clicking a link
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', function() {
+                document.querySelector('.burger').classList.remove('active');
+                document.querySelector('.nav-links').classList.remove('active');
+            });
+        });
+
+        // Update active link on scroll
+        window.addEventListener('scroll', function() {
+            const scrollPosition = window.scrollY + 100;
+            
+            document.querySelectorAll('section').forEach(section => {
+                const sectionTop = section.offsetTop;
+                const sectionHeight = section.offsetHeight;
+                const sectionId = section.getAttribute('id');
+                
+                if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+                    document.querySelectorAll('.nav-links a').forEach(link => {
+                        link.classList.remove('active');
+                        if (link.getAttribute('href') === `#${sectionId}`) {
+                            link.classList.add('active');
+                        }
+                    });
+                }
+            });
+        });
+
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                
+                window.scrollTo({
+                    top: targetElement.offsetTop - 80,
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
