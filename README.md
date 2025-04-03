@@ -1,9 +1,7 @@
 How Next.js, HTML, CSS, and JavaScript Work Together?![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
 How to Create a Next.js Project?![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)  
 How Does HTML, CSS, and JavaScript Work Together in Next.js?![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
-![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
-What is Next.js?
-![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
+What is Next.js?![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
 Next.js is a powerful React framework built to create modern, fast, and scalable web applications. It provides various built-in features to help developers build React applications quickly, without having to configure everything from scratch. Some of its key features include:
 
 Server-Side Rendering (SSR): Pages can be rendered on the server before being sent to the browser, which improves performance and SEO.
@@ -144,7 +142,7 @@ Edit
 npm run dev
 Your Next.js app will be running at http://localhost:3000.
 
-How Next.js, HTML, CSS, and JavaScript Work Together?
+How Next.js, HTML, CSS, and JavaScript Work Together?![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
 
 
 React (JavaScript): React components are built using JavaScript and JSX. These components define the UI and the logic that controls how it behaves (state management, hooks, event handling, etc.).
