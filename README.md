@@ -7,6 +7,8 @@ What is Next.js?
 ![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
 ![image](https://github.com/user-attachments/assets/236cedc3-5716-41d3-b1f0-8c83139d201c)
 ![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
+![image](https://github.com/user-attachments/assets/93bd66f9-f1de-4007-88f9-82534fe6fdbc)
+
 
 
 
