@@ -1,14 +1,15 @@
 How Next.js, HTML, CSS, and JavaScript Work Together?
 ![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
 How to Create a Next.js Project?
-![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
+![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
+
 How Does HTML, CSS, and JavaScript Work Together in Next.js?
 ![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 
 
 ![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
 ![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
-![image](https://github.com/user-attachments/assets/abc44b40-e8ee-47ea-b9f3-9b8b31deea25)
+
 ![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
 
 ![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
@@ -46,7 +47,7 @@ For example, pages/index.js will map to the root route (/).
 
 pages/about.js will map to /about.
 
-Server-Side Rendering (SSR):
+Server-Side Rendering (SSR):![image](https://github.com/user-attachments/assets/abc44b40-e8ee-47ea-b9f3-9b8b31deea25)
 
 When a user requests a page, Next.js can render the page on the server and send the fully rendered HTML to the client. This is beneficial for SEO and initial loading performance.
 
