@@ -20,7 +20,7 @@ https://github.com/lisdibrani/nextjs-boilerplate/blob/03a15a2b38603eac4ad360e9f1
 
 ## 📂 Project Structure
 
-
+```plaintext
 nextjs-boilerplate/
 ├── app/                # Core application logic and routing
 │   ├── (auth)/         # Authentication pages
@@ -45,10 +45,8 @@ nextjs-boilerplate/
 ├── next.config.js      # Next.js config
 ├── package.json        # Dependencies
 └── tsconfig.json       # TypeScript config
-
-
+```
 # Next.js Advanced Boilerplate 🚀
-
 
 A production-ready Next.js starter with optimized architecture, pre-configured tooling, and enterprise-grade patterns.
 
