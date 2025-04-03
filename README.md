@@ -7,15 +7,13 @@ How Does HTML, CSS, and JavaScript Work Together in Next.js?
 ![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 
 
-![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
-![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 
-![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
+
 
 ![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
 ![image](https://github.com/user-attachments/assets/93bd66f9-f1de-4007-88f9-82534fe6fdbc)
 
-![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
+
 
 What is Next.js?
 ![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
