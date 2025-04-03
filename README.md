@@ -3,7 +3,7 @@ How Next.js, HTML, CSS, and JavaScript Work Together?
 How to Create a Next.js Project?
 ![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 How Does HTML, CSS, and JavaScript Work Together in Next.js?
-![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
+![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 
 
 ![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
