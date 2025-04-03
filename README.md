@@ -42,21 +42,7 @@ nextjs-boilerplate/
 ├── package.json        # Dependencies
 └── tsconfig.json       # TypeScript config
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Image](https://github.com/user-attachments/assets/d2765463-c104-44b3-b2f5-711f1cb6ac0b)
 
 # Next.js Advanced Boilerplate 🚀
 
