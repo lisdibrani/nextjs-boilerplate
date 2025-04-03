@@ -14,6 +14,9 @@ A **modern, scalable, and flexible Next.js project** to help you quickly build a
 
 ---What is Nex.js?
 https://github.com/lisdibrani/nextjs-boilerplate/blob/03a15a2b38603eac4ad360e9f1be8e062fab1428/nextjs2.png
+![image](https://github.com/user-attachments/assets/abc44b40-e8ee-47ea-b9f3-9b8b31deea25)
+![image](https://github.com/user-attachments/assets/82a1cfd9-a457-4eb1-915c-6cb3e2a9a744)
+
 
 ## 📂 Project Structure
 
