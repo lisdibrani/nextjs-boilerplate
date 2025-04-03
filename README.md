@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/23b6d828-14e0-4348-83f8-9407eca9b86a)
 
-![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 
 
 ![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
@@ -11,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
 ![image](https://github.com/user-attachments/assets/93bd66f9-f1de-4007-88f9-82534fe6fdbc)
 
-
+![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
 
 What is Next.js?
 ![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
@@ -30,8 +28,9 @@ File-based Routing: Next.js automatically creates routes based on the file struc
 how to install Nextjs? 
 ![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)
 
-How Does Next.js Work?
-![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
+How Does Next.js Work?![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
+
+
 
 In Next.js, you use React for building the components of your web page. The difference from regular React is that Next.js handles server-side rendering, routing, and page generation automatically. Here's how Next.js works under the hood:
 
@@ -65,7 +64,8 @@ Next.js allows you to create backend API routes directly inside the pages/api/ d
 How Does HTML, CSS, and JavaScript Work Together in Next.js?
 Next.js is built on top of React, which in turn uses HTML, CSS, and JavaScript to render the user interface.
 
-HTML:
+HTML:![image](https://github.com/user-attachments/assets/23b6d828-14e0-4348-83f8-9407eca9b86a)
+
 
 React uses a syntax called JSX (JavaScript XML) which allows you to write HTML-like code inside JavaScript.
 
