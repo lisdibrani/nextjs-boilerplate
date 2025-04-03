@@ -1,5 +1,5 @@
 How Next.js, HTML, CSS, and JavaScript Work Together?![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
-How to Create a Next.js Project?![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
+How to Create a Next.js Project?![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)  
 How Does HTML, CSS, and JavaScript Work Together in Next.js?![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 ![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
 ![image](https://github.com/user-attachments/assets/93bd66f9-f1de-4007-88f9-82534fe6fdbc)
@@ -17,7 +17,7 @@ Automatic Code Splitting: Next.js splits the code into smaller chunks, which imp
 
 File-based Routing: Next.js automatically creates routes based on the file structure in the pages/ directory.
 
-how to install Nextjs?![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)
+how to install Nextjs?
 
 How Does Next.js Work?![image](https://github.com/user-attachments/assets/236cedc3-5716-41d3-b1f0-8c83139d201c)
 
