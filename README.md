@@ -13,7 +13,7 @@ A **modern, scalable, and flexible Next.js project** to help you quickly build a
 - ✅ **Clean Folder Structure** - Scalable architecture for long-term projects.
 
 ---What is Nex.js?
-https://github.com/lisdibrani/nextjs-boilerplate/blob/main/nextjs2.png
+https://github.com/lisdibrani/nextjs-boilerplate/blob/03a15a2b38603eac4ad360e9f1be8e062fab1428/nextjs2.png
 
 ## 📂 Project Structure
 
