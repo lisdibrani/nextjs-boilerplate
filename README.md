@@ -1,6 +1,6 @@
 
-How to Create a Next.js Project?![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)  
-How Does HTML, CSS, and JavaScript Work Together in Next.js?![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
+
+
 What is Next.js?![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
 Next.js is a powerful React framework built to create modern, fast, and scalable web applications. It provides various built-in features to help developers build React applications quickly, without having to configure everything from scratch. Some of its key features include:
 
@@ -54,11 +54,10 @@ Next.js is built on top of React, which in turn uses HTML, CSS, and JavaScript t
 
 HTML:![image](https://github.com/user-attachments/assets/23b6d828-14e0-4348-83f8-9407eca9b86a)
 
-
 React uses a syntax called JSX (JavaScript XML) which allows you to write HTML-like code inside JavaScript.
 
 JSX is compiled by React into real HTML that is displayed in the browser.
-
+How Does HTML, CSS, and JavaScript Work Together in Next.js?![image](https://github.com/user-attachments/assets/83bd5509-0af7-477d-8925-1a784998f73a)
 For example, the following JSX:
 
 jsx
@@ -117,7 +116,7 @@ Next.js also supports ES6+ features (like async/await, destructuring, and arrow 
 
 JavaScript in Next.js can be used on both the client-side and the server-side (when rendering pages or creating API routes).
 
-How to Create a Next.js Project
+How to Create a Next.js Project?![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)  
 To create a new Next.js project, follow these steps:
 
 Step 1: Install Node.js
