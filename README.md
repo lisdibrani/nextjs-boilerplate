@@ -190,6 +190,7 @@ nextjs-boilerplate/
 
 
 What is a Static Website?
+https://github.com/lisdibrani/nextjs-boilerplate/blob/4ab05f19979207188756aa21eaa263744863b6ab/Staticweb.html
 A static website is a website built with fixed, unchanging pages that appear the same to all visitors. Unlike dynamic websites (which use databases and real-time content generation), a static website consists of simple files (HTML, CSS, JavaScript) stored on a server and delivered directly to the visitor.
 
 Key Features of Static Websites:
