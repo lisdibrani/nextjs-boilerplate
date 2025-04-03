@@ -5,6 +5,8 @@ What is Next.js?
 ![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
 ![image](https://github.com/user-attachments/assets/abc44b40-e8ee-47ea-b9f3-9b8b31deea25)
 ![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
+![image](https://github.com/user-attachments/assets/236cedc3-5716-41d3-b1f0-8c83139d201c)
+
 
 
 Next.js is a powerful React framework built to create modern, fast, and scalable web applications. It provides various built-in features to help developers build React applications quickly, without having to configure everything from scratch. Some of its key features include:
