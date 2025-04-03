@@ -1,19 +1,18 @@
 
 
-What is Next.js?
+
 ![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
-![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
+
 ![image](https://github.com/user-attachments/assets/abc44b40-e8ee-47ea-b9f3-9b8b31deea25)
 ![image](https://github.com/user-attachments/assets/a5f158aa-a8f7-49f3-b28b-ea490b452e91)
 ![image](https://github.com/user-attachments/assets/236cedc3-5716-41d3-b1f0-8c83139d201c)
 ![image](https://github.com/user-attachments/assets/327277c3-fe23-447b-9ea6-c0d3f320a877)
 ![image](https://github.com/user-attachments/assets/93bd66f9-f1de-4007-88f9-82534fe6fdbc)
-![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)
 
 
 
-
-
+What is Next.js?
+![image](https://github.com/user-attachments/assets/4e98d845-5026-4b59-8310-fb1492f7e638)
 Next.js is a powerful React framework built to create modern, fast, and scalable web applications. It provides various built-in features to help developers build React applications quickly, without having to configure everything from scratch. Some of its key features include:
 
 Server-Side Rendering (SSR): Pages can be rendered on the server before being sent to the browser, which improves performance and SEO.
@@ -27,8 +26,11 @@ Automatic Code Splitting: Next.js splits the code into smaller chunks, which imp
 File-based Routing: Next.js automatically creates routes based on the file structure in the pages/ directory.
 
 how to install Nextjs? 
+![image](https://github.com/user-attachments/assets/25c6198a-6f95-4af7-9051-48ebe9581998)
 
 How Does Next.js Work?
+![image](https://github.com/user-attachments/assets/099261a6-290a-4b4f-860e-1f817cd2ed06)
+
 In Next.js, you use React for building the components of your web page. The difference from regular React is that Next.js handles server-side rendering, routing, and page generation automatically. Here's how Next.js works under the hood:
 
 Routing:
@@ -62,6 +64,7 @@ How Does HTML, CSS, and JavaScript Work Together in Next.js?
 Next.js is built on top of React, which in turn uses HTML, CSS, and JavaScript to render the user interface.
 
 HTML:
+
 React uses a syntax called JSX (JavaScript XML) which allows you to write HTML-like code inside JavaScript.
 
 JSX is compiled by React into real HTML that is displayed in the browser.
