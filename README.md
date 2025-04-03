@@ -12,7 +12,8 @@ A **modern, scalable, and flexible Next.js project** to help you quickly build a
 - ✅ **API Routes** - Integrated backend routes using Next.js API.
 - ✅ **Clean Folder Structure** - Scalable architecture for long-term projects.
 
----
+---What is Nex.js?
+https://github.com/lisdibrani/nextjs-boilerplate/blob/main/nextjs2.png
 
 ## 📂 Project Structure
 
