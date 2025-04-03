@@ -2,6 +2,7 @@
 
 
 What is Next.js?
+
 Next.js is a powerful React framework built to create modern, fast, and scalable web applications. It provides various built-in features to help developers build React applications quickly, without having to configure everything from scratch. Some of its key features include:
 
 Server-Side Rendering (SSR): Pages can be rendered on the server before being sent to the browser, which improves performance and SEO.
